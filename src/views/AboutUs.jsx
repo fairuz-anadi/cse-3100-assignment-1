@@ -1,8 +1,8 @@
 export default function AboutUs() {
   const teamMembers = [
-    { name: 'Bob Doe', role: 'Founder', image: 'https://i.pravatar.cc/150?img=12' },
-    { name: 'Bob Doe', role: 'Director', image: 'https://i.pravatar.cc/150?img=33' },
-    { name: 'Bob Doe', role: 'Manager', image: 'https://i.pravatar.cc/150?img=47' }
+    { name: 'FAiruz Anadi', role: 'Founder', image: 'https://i.pravatar.cc/150?img=12' },
+    { name: 'Naima Sultana', role: 'Director', image: 'https://i.pravatar.cc/150?img=33' },
+    { name: 'Mirazum Mahin', role: 'Manager', image: 'https://i.pravatar.cc/150?img=47' }
   ];
 
   return (
